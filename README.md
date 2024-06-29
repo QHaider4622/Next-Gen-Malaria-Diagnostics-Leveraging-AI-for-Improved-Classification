@@ -39,6 +39,8 @@ Here, we load the dataset and inspect it
 
 ![Balance](https://github.com/QHaider4622/Next-Gen-Malaria-Diagnostics-Leveraging-AI-for-Improved-Classification/assets/79516393/a066e458-63e2-40d5-9e26-e55477fdad57)
 
+we can see that the dataset is balanced
+
 ### Splitting the Dataset into Training, Validation and Testing Sets
 
 The dataset is split into training,validation and testing sets to evaluate the model performance effectively.
