@@ -1,4 +1,4 @@
-# Next-Gen-Malaria-Diagnostics-Leveraging-AI-for-Improved-Classification
+# Next Gen Malaria Diagnostics Leveraging AI for Improved Classification
 
 This project focuses on classifying images of cells to determine whether they are infected with malaria. The dataset contains cell images labeled as either parasitized or uninfected. We utilize deep learning techniques to build and evaluate models for this classification task. The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria).
 
