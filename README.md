@@ -110,3 +110,4 @@ The best performing model was **Alexnet** with an accuracy of **0.9661** and an 
 
 ## References
 - [Kaggle Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+- [Link to Weights ](https://drive.google.com/drive/folders/1cvAzkkrjB8zoLPRPZ_imi-KGGEOnAI0W?usp=drive_link)
