@@ -79,22 +79,34 @@ Both model are trained on the training data from sctrach
 
 The model are evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
-#### Result of Custom Model on Test Data
+#### Result of Custom Model on Test Data (Confusion Matrix)
 
-#### Result of Alexnet on Test Data
+![Confusion Matrix for Custom](https://github.com/QHaider4622/Next-Gen-Malaria-Diagnostics-Leveraging-AI-for-Improved-Classification/assets/79516393/ad823e08-1b55-4235-ad77-c101e8522d42)
+
+#### Result of Alexnet on Test Data (Confusion Matrix)
+
+![Confusion Matrix for Alexnet](https://github.com/QHaider4622/Next-Gen-Malaria-Diagnostics-Leveraging-AI-for-Improved-Classification/assets/79516393/c9296aa7-fba6-4c9a-93ba-e576f0aaf3b0)
 
 ### Visualizing Results
 
 Visualizations are created to understand the model's performance.
 
-#### Performance of Custom Model
+#### Training and Validation Loss for Custom CNN
+![Loss for Custom](https://github.com/QHaider4622/Next-Gen-Malaria-Diagnostics-Leveraging-AI-for-Improved-Classification/assets/79516393/3a3ece7f-43dc-4e2d-a0ce-0afa963af09f)
 
-#### Performance of Alex Model
+#### Training and Validation Loss for AlexNet
+![Loss for Alexnet](https://github.com/QHaider4622/Next-Gen-Malaria-Diagnostics-Leveraging-AI-for-Improved-Classification/assets/79516393/9a3276fe-20bf-417a-b042-89d34c41ba86)
+
+#### Performance Comparison
+| Model Name        | Accuracy    | Precision   | Recall      | F1 Score    |
+|-------------------|-------------|-------------|-------------|-------------|
+| Custom CNN        | 0.9611      | 0.9611      | 0.9611      | 0.9611      |
+| Alexnet           | 0.9661      | 0.9662      | 0.9661      | 0.9661      |
+
 
 ### Best Performing Model
 
-
-The best performing model was ** ** with an accuracy of ** ** and an F1 Score of ** **.
+The best performing model was **Alexnet** with an accuracy of **0.9661** and an F1 Score of **0.9661**.
 
 ## References
 - [Kaggle Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
